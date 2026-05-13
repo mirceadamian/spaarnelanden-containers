@@ -1,4 +1,4 @@
-# Sparnelanden Containers Sensor for Home Assistant
+# Spaarnelanden Containers Sensor for Home Assistant
 
 A sensor for the capacity status of garbage containers serviced by the Spaarnelanden.
 
