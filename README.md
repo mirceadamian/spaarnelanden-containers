@@ -2,6 +2,10 @@
 
 A sensor for the capacity status of garbage containers serviced by the Spaarnelanden.
 
+Since I could not get in contact with the original owner and the integration was not
+working anymore I've decided to fork it and attempt to fix it.
+
+
 The sensor scrapes container data every 2 hours from
 https://inzameling.spaarnelanden.nl/.  Rather than exposing the status of all waste
 containers in the Haarlem area, you can subscribe and receive container status
